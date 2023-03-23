@@ -34,7 +34,9 @@ namespace GarageConsoleApp
             var lastName = Console.ReadLine();
 
             Console.Write("Введите дату рождения водителя водителя (d.m.yyyy): ");
-            var birt = Convert.ToDateTime(Console.ReadLine());
+            var birth = Convert.ToDateTime(Console.ReadLine());
+            DatabaseRequests.AddDriverQuery(firstName, lastName, birth);
+            DatabaseRequests.GetDriverQuery();
 
             Console.Write("Введите название категории: ");
             string rigts = Console.ReadLine();

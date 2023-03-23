@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A4Pia\\Desktop\\rcis-education_practice_two\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj": {}
+    "C:\\Users\\A4Pia\\Desktop\\RcisEducationPracticeTwo\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A4Pia\\Desktop\\rcis-education_practice_two\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj": {
+    "C:\\Users\\A4Pia\\Desktop\\RcisEducationPracticeTwo\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A4Pia\\Desktop\\rcis-education_practice_two\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj",
+        "projectUniqueName": "C:\\Users\\A4Pia\\Desktop\\RcisEducationPracticeTwo\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj",
         "projectName": "RCIS_EP_2_5",
-        "projectPath": "C:\\Users\\A4Pia\\Desktop\\rcis-education_practice_two\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj",
+        "projectPath": "C:\\Users\\A4Pia\\Desktop\\RcisEducationPracticeTwo\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj",
         "packagesPath": "C:\\Users\\A4Pia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A4Pia\\Desktop\\rcis-education_practice_two\\RCIS_EP_2_5\\RCIS_EP_2_5\\obj\\",
+        "outputPath": "C:\\Users\\A4Pia\\Desktop\\RcisEducationPracticeTwo\\RCIS_EP_2_5\\RCIS_EP_2_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A4Pia\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7k5iLM4qGBlB+uXj/d4gJUCj24oJTMaylhsQIHpejxsWotGrCUVa8KGl+oe6xUZL3dGJO4qFD0RIUAvfZmCaFw==",
+  "dgSpecHash": "4e1G67dZZ52BKmrGwwpLMqVY+UW5Vicd4E0+lD6pti+/iMzhse2M8QLSVRJX5cZchGMjMNYNbAoZtbL0C1N9EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A4Pia\\Desktop\\rcis-education_practice_two\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj",
+  "projectFilePath": "C:\\Users\\A4Pia\\Desktop\\RcisEducationPracticeTwo\\RCIS_EP_2_5\\RCIS_EP_2_5\\RCIS_EP_2_5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A4Pia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\A4Pia\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
