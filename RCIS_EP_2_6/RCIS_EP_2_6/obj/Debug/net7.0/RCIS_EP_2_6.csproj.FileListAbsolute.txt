@@ -1,0 +1,17 @@
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\bin\Debug\net7.0\RCIS_EP_2_6.exe
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\bin\Debug\net7.0\RCIS_EP_2_6.deps.json
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\bin\Debug\net7.0\RCIS_EP_2_6.runtimeconfig.json
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\bin\Debug\net7.0\RCIS_EP_2_6.dll
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\bin\Debug\net7.0\RCIS_EP_2_6.pdb
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.csproj.AssemblyReference.cache
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.AssemblyInfoInputs.cache
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.AssemblyInfo.cs
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.csproj.CoreCompileInputs.cache
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.dll
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\refint\RCIS_EP_2_6.dll
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.pdb
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.genruntimeconfig.cache
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\ref\RCIS_EP_2_6.dll
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\A4Pia\Desktop\Практика РКИС 2\RCIS_EP_2_6\RCIS_EP_2_6\obj\Debug\net7.0\RCIS_EP_2_6.csproj.CopyComplete

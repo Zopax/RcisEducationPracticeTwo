@@ -1,0 +1,15 @@
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\bin\Debug\net7.0\RCIS_Practice_2_1.exe
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\bin\Debug\net7.0\RCIS_Practice_2_1.deps.json
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\bin\Debug\net7.0\RCIS_Practice_2_1.runtimeconfig.json
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\bin\Debug\net7.0\RCIS_Practice_2_1.dll
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\bin\Debug\net7.0\RCIS_Practice_2_1.pdb
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.csproj.AssemblyReference.cache
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.AssemblyInfoInputs.cache
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.AssemblyInfo.cs
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.csproj.CoreCompileInputs.cache
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.dll
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\refint\RCIS_Practice_2_1.dll
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.pdb
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\RCIS_Practice_2_1.genruntimeconfig.cache
+C:\Users\A4Pia\Desktop\Python\Hello World\RCIS_Practice_2_1\RCIS_Practice_2_1\obj\Debug\net7.0\ref\RCIS_Practice_2_1.dll

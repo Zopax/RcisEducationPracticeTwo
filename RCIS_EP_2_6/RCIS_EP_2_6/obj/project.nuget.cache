@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8oc/SH/p/eJkeRSiFw0HQZgzbES1EUGwc2QF3+jwgawgyCryhgdzr4HLOWtSv0ehrsjUzl7gzvkr0LTpBjJMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A4Pia\\Desktop\\Практика РКИС 2\\RCIS_EP_2_6\\RCIS_EP_2_6\\RCIS_EP_2_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A4Pia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

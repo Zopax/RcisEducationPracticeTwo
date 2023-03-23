@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCIS_EP_2_5", "RCIS_EP_2_5\RCIS_EP_2_5.csproj", "{3D4DF0BC-558A-455D-B26A-9C57053C7DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4DF0BC-558A-455D-B26A-9C57053C7DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4DF0BC-558A-455D-B26A-9C57053C7DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4DF0BC-558A-455D-B26A-9C57053C7DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4DF0BC-558A-455D-B26A-9C57053C7DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
